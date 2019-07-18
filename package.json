@@ -1,0 +1,19 @@
+{
+  "name": "backen-node.js-evaluacion-josevillabona",
+  "version": "1.0.0",
+  "description": "buscador con node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/villabone/Buscador-con-node.js-evaluacion.git"
+  },
+  "author": "Jose Villabona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/villabone/Buscador-con-node.js-evaluacion/issues"
+  },
+  "homepage": "https://github.com/villabone/Buscador-con-node.js-evaluacion#readme"
+}
