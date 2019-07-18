@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/villabone/Buscador-con-node.js-evaluacion/issues"
   },
-  "homepage": "https://github.com/villabone/Buscador-con-node.js-evaluacion#readme"
+  "homepage": "https://github.com/villabone/Buscador-con-node.js-evaluacion#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
