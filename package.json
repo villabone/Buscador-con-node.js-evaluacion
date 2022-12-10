@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/villabone/Buscador-con-node.js-evaluacion#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
